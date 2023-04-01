@@ -1,8 +1,10 @@
+##To install new packages:- writw them in requirements.txt then run:- pip install -r requirements.txt
 pandas
 numpy
 seaborn
 matplotlib
 scikit-learn
 catboost
-xgboost==1.0.1
+dill
+##xgboost==1.0.1
 ##-e .
