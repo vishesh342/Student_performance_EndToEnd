@@ -8,4 +8,5 @@ catboost
 dill
 flask
 ##xgboost==1.0.1
-##-e .
+
+-e .
