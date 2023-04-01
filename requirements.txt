@@ -1,4 +1,4 @@
-##To install new packages:- writw them in requirements.txt then run:- pip install -r requirements.txt
+##To install new packages:- write them in requirements.txt then run:- pip install -r requirements.txt
 pandas
 numpy
 seaborn
